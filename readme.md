@@ -1,10 +1,1 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.cn/api?theme=onedark&username=tr1standevs&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
-  <img src="https://github-readme-stats.lovesykun.cn/api?username=tr1standevs&show_icons=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&rank_icon=percentile&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.cn/api/top-langs/?theme=onedark&username=tr1standevs&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
-</picture>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tr1stanDevs&theme=dark)](https://git.io/streak-stats)
