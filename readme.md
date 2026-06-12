@@ -5,5 +5,6 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.lovesykun.cn/api/top-langs/?theme=onedark&username=tr1standevs&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
-  <img src="https://github-readme-stats.lovesykun.cn/api/top-langs/?username=tr1standevs&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
 </picture>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
